@@ -17,5 +17,5 @@ Inspired by a game designed and created by Massimiliano Colangelo of pianetaverd
 - O = shorten right cord
 - K = lengthen right cord
 
-![GravityChallenge baord](/assets/images/GravityChallenge.png)
+![GravityChallenge baord](/assets/images/GravityChallenge1.png)
 
